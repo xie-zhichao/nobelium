@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Zhichao Logs',
   author: 'Zhichao',
   email: 'hikeman09@gmail.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://zhichao-logs.vercel.app',
   description: 'Zhichao 的技术&生活记录.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
