@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'Zhichao Logs',
-  author: 'Zhichao',
+  title: 'XieZhichao\'Logs',
+  author: 'XieZhichao',
   email: 'hikeman09@gmail.com',
   link: 'https://zhichao-logs.vercel.app',
-  description: 'Zhichao 的技术&生活记录.',
+  description: '谢志超的知识&生活笔记.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
