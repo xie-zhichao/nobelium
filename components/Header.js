@@ -70,33 +70,21 @@ const Header = ({ navBarTitle, fullWidth }) => {
           <Link href="/">
             <a aria-label={BLOG.title}>
               <div className="h-6">
-                <svg
-                  width="24"
-                  height="24"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <rect
-                    width="24"
-                    height="24"
-                    className="fill-current text-black dark:text-white"
-                  />
-                  <rect width="24" height="24" fill="url(#paint0_radial)" />
-                  <defs>
-                    <radialGradient
-                      id="paint0_radial"
-                      cx="0"
-                      cy="0"
-                      r="1"
-                      gradientUnits="userSpaceOnUse"
-                      gradientTransform="rotate(45) scale(39.598)"
-                    >
-                      <stop stopColor="#CFCFCF" stopOpacity="0.6" />
-                      <stop offset="1" stopColor="#E9E9E9" stopOpacity="0" />
-                    </radialGradient>
-                  </defs>
-                </svg>
+                <img width={24} height={24} src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+                AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAmVBMVEX//////9z/0w7/yQ7/
+                25P/27nSuL5wkr5wpt/o/////7n/yWv/5dz/5UH/7d+Kkr6KyvT/3NT/9pP/7f//05Poysn/7Wv/
+                yUH/9v/Sysmi3P//2w7o3NT//+qikr6i3PS6pr5wktTS///S3NT/9rm6uL5wksm67f+KyuqKyt+i
+                3OpwuN//9tz///T/5ZPS7d9wuOqiuNSiuOrjGoQrAAAAAWJLR0QAiAUdSAAAAAlwSFlzAAAOwwAA
+                DsMBx2+oZAAAAAd0SU1FB+YCEQw1N406r3gAAAFxSURBVFjD7ZXpUoNAEIQxCINoDBAgmgiC9xmP
+                9384Z8ieWBaw/HS+qlQFCpqZnt5dz2MYhmEYhmFGcrTw+xzjrcB8JgRJdDIoGKPCqSV/tsSffuB8
+                BZDQn7STTIYEM99f6yvUyvFOru8UhkY4RrA0uyuxWix5cyGLiy4Btlbv20FB+bZof71TJacQXdkl
+                VfWwoAlqBUs1EHz7uoH2xnwinCQoDJQjKqC97XuWThFErc2dNhALjO7h4XFKixaUGDJQJgbj8tTv
+                eBLCQJUYzMtzPSbJf1DaBnaCLzMEhYFGyOcJSgONkM9rmdJXWkuOli4KOg6FllymE9OBU35tHGND
+                y/dtYe0xnvfeAK3kxEWQ0mcbuN/L7crFRGGgTgzOPOhKxGQ7lJgdDDQSEx8uqrr9WNkuFvA5qIeJ
+                6RkYy2qrr2/qW+0HuLxHbA7CwNz4gLITNxdsXKjQWTBi6jSM3a9zypp3oc6oGXsPwzAMwzDMf+UH
+                IW8XuwLEzeUAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjItMDItMTdUMDk6NTM6NTUrMDM6MDA5vwkx
+                AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIyLTAyLTE3VDA5OjUzOjU1KzAzOjAwSOKxjQAAAABJRU5E
+                rkJggg==" />
               </div>
             </a>
           </Link>
